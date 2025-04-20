@@ -55,7 +55,7 @@ You can edit this project using any of these methods:
 4. Commit the changes
 
 ## Deployment
-Initail release is pending. Once the project is ready for production, you can deploy it using Vercel or any other hosting service.
+the release is pending. Once the project is ready for production, you can deploy it using Vercel or any other hosting service.
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
